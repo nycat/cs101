@@ -4,4 +4,4 @@ This notes based  on tutorial at [https://restfulapi.net/](https://restfulapi.ne
 
 - [Chapter 1: basic concepts](01.basic-concepts.md)
 
-- [Chapter 2: Guide](02.Guide.md)
+- [Chapter 2: Guide](02.guides.md)
