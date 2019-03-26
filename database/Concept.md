@@ -197,7 +197,3 @@ Child inherits value from parent. For example, for a cardholder who can own muti
 - Many to Many
 
 Split it and join into a new table.
-
-## Introduction to keys
-
-Keys in database, are 
